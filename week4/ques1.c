@@ -11,6 +11,7 @@ void main()
 	for(i=0;i<256;i++)
 	{
 		ch =(char)i;
+		printf("kunal");
 		printf("ascii value = %d ",i);
 		printf("corresoindng chaecter = %c ",ch);
 	}
